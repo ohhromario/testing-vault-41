@@ -9,3 +9,7 @@ so... я всё ещё учусь, как правильно пользоват�
 
 я сейчас буду делать ещё один коммит, чтобы обносить версию readme.
 да, я уже устал это всё изучать...
+
+it's been a while since the last commit and I'm starting to understand and love GIT a little, I swear!
+today is 24.12.2024
+and I'm waiting for my visa...
